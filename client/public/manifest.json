@@ -1,0 +1,8 @@
+{
+  "short_name": "InsureSense",
+  "name": "InsureSense AI",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#eef3f8",
+  "theme_color": "#0f172a"
+}

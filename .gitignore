@@ -1,0 +1,17 @@
+# JavaScript dependencies and generated output
+client/node_modules/
+client/build/
+client/coverage/
+client/package-lock-dell.json
+
+# Python caches and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local database and environment configuration
+server/data/*.db
+.env
+.env.*
+!.env.example
